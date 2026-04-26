@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Naknohack/M1Fruts-/refs/heads/main/FastMax.lua%20(3).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Naknohack/M1Fruts-/refs/heads/main/Fastattackandm1.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Naknohack/M1Fruts-/refs/heads/main/FastMax.lua%20(2).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Naknohack/M1Fruts-/refs/heads/main/Fastattack3667.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Naknohack/M1Fruts-/refs/heads/main/Ultrafastattack.txt"))()
